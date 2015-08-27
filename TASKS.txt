@@ -1,0 +1,9 @@
+1. Setup Babel on grunt
+2. Make simple react component
+3. Design chat app page with bootstrap
+4. Make chat app on client using react and reflux
+5. Setup mongo DB to store chat history
+6. Setup Facebook login
+7. Sync data using socket IO
+8. Render pages on client using isomorphic react
+9. Deploy to Azure
